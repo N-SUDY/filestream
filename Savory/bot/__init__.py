@@ -1,5 +1,5 @@
 from pyrogram import Client
-import pyromod.listen
+from pyromod import listen
 from ..vars import Var
 from os import getcwd
 
